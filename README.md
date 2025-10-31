@@ -317,7 +317,7 @@ me.say_hi()
 <tr>
 <td align="center" style="border: 2px solid #2E9EF7; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%);">
 
-[![MiniBank](https://github-readme-stats.vercel.app/api/pin/?username=Abderrahamane&repo=MINIBANK&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/Abderrahamane/flutter-banking-app)
+[![MiniBank](https://github-readme-stats.vercel.app/api/pin/?username=Abderrahamane&repo=flutter-banking-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/Abderrahamane/flutter-banking-app)
 
 </td>
 </tr>
