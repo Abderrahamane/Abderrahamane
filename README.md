@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&text=&fontSize=0&animation=twinkling)
+
+</div>
+
+<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-houri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahmane.houri@ensia.edu.dz)
@@ -11,7 +17,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## About Me
 
@@ -47,60 +53,243 @@ me.say_hi()
 
  **Fun fact:** I believe the best code is the code that makes a difference!
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Tech Stack & Skills
 
-###  AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<div align="center">
 
-###  Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### ML & DL
 
-###  Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<table>
+<tr>
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+<br><b>Python</b>
+<br><code>Legendary</code>
+</td>
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="50" height="50" alt="TensorFlow"/>
+<br><b>TensorFlow</b>
+<br><code>Seeker</code>
+</td>
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=pytorch" width="50" height="50" alt="PyTorch"/>
+<br><b>PyTorch</b>
+<br><code>Seeker</code>
+</td>
+<td align="center" width="10%">
+<img src="https://skillicons.dev/icons?i=sklearn" width="50" height="50" alt="Scikit Learn"/>
+<br><b>Scikit Learn</b>
+<br><code>Good</code>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+<br><b>Pandas</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+<br><b>NumPy</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="10%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="50" height="50" alt="OpenAI"/>
+<br><b>OpenAI</b>
+<br><code>Seeker</code>
+</td>
+</tr>
+</table>
 
-###  Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Frontend Arsenal
 
-###  Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<table>
+<tr>
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
+<br><b>React</b>
+<br><code>Seeker</code>
+</td>
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+<br><b>Next.js</b>
+<br><code>beginner</code>
+</td>
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/>
+<br><b>TypeScript</b>
+<br><code>Seeker</code>
+</td>
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
+<br><b>JavaScript</b>
+<br><code>Legendary</code>
+</td>
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5"/>
+<br><b>HTML5</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3"/>
+<br><b>CSS3</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="12.5%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
+<br><b>Tailwind CSS</b>
+<br><code>Seeker</code>
+</td>
+</tr>
+</table>
 
-###  Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Backend Arsenal
 
-### Tools & Platforms
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+<br><b>Node.js</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express.js"/>
+<br><b>Express.js</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/>
+<br><b>Django</b>
+<br><code>Seeker</code>
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/>
+<br><b>FastAPI</b>
+<br><code>Good</code>
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/>
+<br><b>Flask</b>
+<br><code>Beginner</code>
+</td>
+</tr>
+</table>
 
----
+### Mobile Arsenal
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter"/>
+<br><b>Flutter</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=dart" width="50" height="50" alt="Dart"/>
+<br><b>Dart</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React Native"/>
+<br><b>React Native</b>
+<br><code>Seeker</code>
+</td>
+</tr>
+</table>
+
+### Database Arsenal
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
+<br><b>MongoDB</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+<br><b>MySQL</b>
+<br><code>Good</code>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
+<br><b>Firebase</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis"/>
+<br><b>Redis</b>
+<br><code>Beginner</code>
+</td>
+</tr>
+</table>
+
+### Cloud & DevOps Arsenal
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
+<br><b>Docker</b>
+<br><code>Beginner</code>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
+<br><b>AWS</b>
+<br><code>Beginner</code>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="Google Cloud"/>
+<br><b>Google Cloud</b>
+<br><code>Seeker</code>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+<br><b>Git</b>
+<br><code>Legendary</code>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="GitHub Actions"/>
+<br><b>GitHub Actions</b>
+<br><code>Legendary</code>
+</td>
+</tr>
+</table>
+
+### Tools & Platforms Arsenal
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=idea" width="50" height="50" alt="JetBrains"/>
+<br><b>JetBrains</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="16.66%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
+<br><b>Jupyter</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman"/>
+<br><b>Postman</b>
+<br><code>Epic</code>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux"/>
+<br><b>Linux</b>
+<br><code>Beginner</code>
+</td>
+<td align="center" width="16.66%">
+<img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
+<br><b>Figma</b>
+<br><code>Beginner</code>
+</td>
+</tr>
+</table>
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## GitHub Statistics
 
@@ -118,7 +307,7 @@ me.say_hi()
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Featured Projects
 
@@ -136,7 +325,7 @@ A secure, feature-rich mobile banking app built with Flutter & Firebase featurin
 **Tech Stack:** Flutter • Firebase • Dart • Provider • Cloud Firestore
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 Contribution Activity
 
@@ -146,22 +335,36 @@ A secure, feature-rich mobile banking app built with Flutter & Firebase featurin
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## What I'm Working On
+## Development Pipeline
 
 ```mermaid
-graph LR
-    A[AI/ML Projects] --> B[Full Stack Apps]
-    B --> C[Mobile dev DayFlow]
-    C --> D[Open Source]
-    D --> A
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#00D9FF', 'primaryTextColor':'#fff', 'primaryBorderColor':'#00D9FF', 'lineColor':'#00D9FF', 'secondaryColor':'#0D1117', 'tertiaryColor':'#1a1a1a', 'fontSize':'16px'}}}%%
+graph TB
+    A[Data Collection & Preprocessing] --> B[Model Development & Training]
+    B --> C[Model Evaluation & Optimization]
+    C --> D[Backend API Development]
+    D --> E[Frontend Integration]
+    E --> F[Mobile App Development]
+    F --> G[Testing & Quality Assurance]
+    G --> H[Deployment & Monitoring]
+    H --> I[Performance Analysis]
+    I --> J[Continuous Improvement]
+    J --> A
     
-    style A fill:#2E9EF7,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#FF6D00,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#00C853,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#D500F9,stroke:#fff,stroke-width:2px,color:#fff
+    style A fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
+    style B fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
+    style C fill:#00D9FF,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#FF6D00,stroke:#fff,stroke-width:2px,color:#fff
+    style E fill:#FF6D00,stroke:#fff,stroke-width:2px,color:#fff
+    style F fill:#00C853,stroke:#fff,stroke-width:2px,color:#fff
+    style G fill:#FFD600,stroke:#fff,stroke-width:2px,color:#000
+    style H fill:#D500F9,stroke:#fff,stroke-width:2px,color:#fff
+    style I fill:#D500F9,stroke:#fff,stroke-width:2px,color:#fff
+    style J fill:#2196F3,stroke:#fff,stroke-width:2px,color:#fff
 ```
+
 
 -  Building AI-powered web applications
 - Learning advanced ML techniques and cloud architecture
@@ -169,7 +372,7 @@ graph LR
 -  Ask me about: Python, React, Flutter, Machine Learning
 -  Reach me at: **abderrahmane.houri@ensia.edu.dz**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## My Goals for 2026
 
@@ -179,7 +382,7 @@ graph LR
 - [ ] Launch a SaaS product
 - [ ] Mentor aspiring developers
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  Latest Blog Posts
 
@@ -190,24 +393,25 @@ graph LR
 -  Cloud-Native Architecture Patterns
 <!-- BLOG-POST-LIST:END -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Skills Breakdown
+## Expertise Matrix
 
 <div align="center">
 
-| Category | Technologies                             | Proficiency |
-|----------|------------------------------------------|-------------|
-| **AI/ML** | Python, TensorFlow, PyTorch, Scikit-learn | ████████░░ 80% |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS | ████████░░ 85% |
-| **Backend** | Node.js, Django, FastAPI, Express        | ███████░░░ 75% |
-| **Mobile** | Flutter, React Native                    | ████████░░ 80% |
-| **Database** | MongoDB, MySQL, Firebase                 | ███████░░░ 75% |
-| **DevOps** | Docker, AWS, CI/CD                       | ██████░░░░ 65% |
+| Domain | Technology Stack | Proficiency | Experience |
+|:-------|:----------------|:-----------:|:-----------|
+| **AI/ML Engineering** | TensorFlow, PyTorch, Scikit-learn, Keras | ![](https://geps.dev/progress/30?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 0+ years |
+| **Frontend Development** | React, Next.js, TypeScript, Tailwind | ![](https://geps.dev/progress/85?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 2+ years |
+| **Backend Development** | Node.js, Django, FastAPI, Express | ![](https://geps.dev/progress/80?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 2+ years |
+| **Mobile Development** | Flutter, React Native, Dart | ![](https://geps.dev/progress/80?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 1+ years |
+| **Database Systems** | MongoDB, MySQL, Redis, Firebase | ![](https://geps.dev/progress/75?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 2+ years |
+| **Cloud & DevOps** | AWS, GCP, Docker, Kubernetes, CI/CD | ![](https://geps.dev/progress/40?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 0+ years |
+| **System Design** | Microservices, Distributed Systems | ![](https://geps.dev/progress/10?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 0 years |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Let's Connect!
 
@@ -223,7 +427,7 @@ I'm always excited to collaborate on innovative projects, especially in AI/ML an
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -237,7 +441,7 @@ I'm always excited to collaborate on innovative projects, especially in AI/ML an
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
