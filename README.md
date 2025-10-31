@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abderrahmane 👋
+Full-Stack & AI Student | Turning ideas into intelligent solutions.
 
-<!--
-**Abderrahamane/Abderrahamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I love building scalable apps powered by AI — from data-driven FastApi backends to interactive Flutter or React frontends.
 
-Here are some ideas to get you started:
+🧠 Tech Stack:
+- **Frontend:** Flutter, HTML/CSS/JS, React  
+- **Backend:** FastApi, Laravel, Node.js with Express  
+- **AI/ML:** Python, TensorFlow, Scikit-learn, OpenAI API
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Docker, Git, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Currently working on: an AI app that helps the world get better decisions to buy things (DALNI ... coming soon).  
+Reach me at: [LinkedIn](#) • [Email](#abderrahmane.houri@ensia.edu.dz)  
+
+# GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abderrahamane&show_icons=true&theme=tokyonight)
+# Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahamane&layout=compact&theme=tokyonight)
+# Streak Stats:
+![GitHub Streak](https://streak-stats.demolab.com?user=Abderrahamane&theme=tokyonight)
+
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-Framework-green)
+![React](https://img.shields.io/badge/React-JS-blue)
+
