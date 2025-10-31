@@ -313,7 +313,15 @@ me.say_hi()
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" style="border: 2px solid #2E9EF7; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #1a1f2e 100%);">
+
 [![MiniBank](https://github-readme-stats.vercel.app/api/pin/?username=Abderrahamane&repo=flutter-banking-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/Abderrahamane/minibank)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -323,17 +331,6 @@ A secure, feature-rich mobile banking app built with Flutter & Firebase featurin
 -> it's now still under development
 
 **Tech Stack:** Flutter • Firebase • Dart • Provider • Cloud Firestore
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Abderrahamane/Abderrahamane/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
