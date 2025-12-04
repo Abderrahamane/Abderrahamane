@@ -28,14 +28,14 @@ class AbderrahmaneHouri:
         self.role = "Full Stack AI Developer"
         self.education = "Computer Science Student @ ENSIA"
         self.location = "Algiers, Algeria 🇩🇿"
-        self.interests = ["AI/ML", "Web Development", "Mobile Apps", "Cloud Computing"]
+        self.interests = ["AI/ML", "Neural architectue", "Mobile Apps", "Cloud Computing"]
         
     def current_focus(self):
         return [
             "Building AI-powered applications",
             "Exploring Large Language Models",
             "Creating full-stack solutions",
-            "Contributing to open source"
+            "Learning ..."
         ]
     
     def say_hi(self):
@@ -371,20 +371,9 @@ graph TB
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## My Goals for 2026
-
-- [ ] Master full-stack development
-- [ ] Build production-ready AI applications
-- [ ] Contribute to major open-source projects
-- [ ] Launch a SaaS product
-- [ ] Mentor aspiring developers
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ##  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
--  Building Intelligent Apps with LLMs
 -  Flutter + Firebase: Production-Ready Mobile Apps
 -  Machine Learning Best Practices
 -  Cloud-Native Architecture Patterns
@@ -410,7 +399,7 @@ graph TB
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Let's Connect!
+## Contact me!
 
 <div align="center">
 
